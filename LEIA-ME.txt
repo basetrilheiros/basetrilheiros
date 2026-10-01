@@ -1,0 +1,45 @@
+BASE TRILHEIROS — SITE ESTÁTICO
+
+ABRIR
+Abra index.html no navegador. A página do grupo é whatsapp.html.
+O site funciona sem instalação, serviços externos, bibliotecas ou compilação.
+Todos os estilos, scripts, imagens e a fonte Montserrat estão na pasta.
+
+PUBLICAR NO GITHUB PAGES
+1. Crie um repositório no GitHub (público para a opção gratuita padrão).
+2. Envie o CONTEÚDO desta pasta para a raiz do repositório, incluindo assets.
+3. Em Settings > Pages, escolha Deploy from a branch.
+4. Selecione a branch main e a pasta / (root); salve.
+5. Aguarde a publicação e abra o endereço apresentado pelo GitHub.
+Mantenha index.html na raiz. Os caminhos relativos funcionam também em subpastas.
+Você também pode enviar esta mesma pasta a qualquer hospedagem de sites estáticos.
+
+EDITAR
+index.html: página inicial, apresentação, categorias, comunidade e ofertas.
+whatsapp.html: página dedicada ao convite para o grupo.
+styles.css: cores, composição, tipografia e adaptação a telas menores.
+script.js: menu no celular e ano do rodapé.
+assets/: imagens da marca, exemplos de campanha, fonte e licença da fonte.
+
+LINK DO GRUPO
+https://chat.whatsapp.com/IdeL0EjSYCk3eZGhlh6pKp?mode=gi_t
+O endereço está preservado nos três botões externos de whatsapp.html.
+As chamadas e categorias da home levam à página dedicada ao grupo.
+O site não cadastra visitantes nem confirma automaticamente entrada no grupo.
+A validade do convite e a admissão de participantes são controladas no WhatsApp.
+
+IDENTIDADE E ASSETS
+Logo oficial: cópia integral de “Imagem do Codex 20 de set. de 2026, 20_14_12.png”.
+identidade-visual.png: cópia integral de “Base Trilheiros.png”.
+exemplo01.jpeg e exemplo02.jpeg: cópias integrais das referências fornecidas.
+O hero enquadra a fotografia do painel de identidade via CSS, sem editar o original.
+exemplo02 aparece como peça editorial da marca; exemplo01 é incluído como referência.
+O logo é apresentado sem redesenho, recoloração, corte ou mudança de proporções.
+Fonte Montserrat: Google Fonts, distribuída sob SIL Open Font License.
+Licença incluída em assets/OFL-Montserrat.txt.
+Os arquivos originais de sources não foram alterados.
+Não foram criados preços, descontos, depoimentos, números de participantes ou promoções.
+
+ACESSIBILIDADE
+HTML semântico, link para pular ao conteúdo, foco visível, menu com estado acessível,
+suporte a movimento reduzido e navegação disponível também sem JavaScript.
